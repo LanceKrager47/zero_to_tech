@@ -17,6 +17,7 @@ dist/
 .DS_Store
 *.log
 .env*
+!.env.example
 
 backend/__pycache__
 backend/__venv__
