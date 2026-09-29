@@ -1,0 +1,51 @@
+[
+  {
+    "text": "今天的风很轻，适合把脑海里的想法慢慢写下来。",
+    "score": 1.0,
+    "label": "偏积极",
+    "pinyin": "jīn tiān de fēng hěn qīng ， shì hé bǎ nǎo hǎi lǐ de xiǎng fǎ màn màn xiě xià lái 。",
+    "created_at": "2026-09-28T09:35:39+00:00"
+  },
+  {
+    "text": "哇，傻逼",
+    "score": 0.5,
+    "label": "中性",
+    "pinyin": "wa ， shǎ bī",
+    "created_at": "2026-09-28T09:36:00+00:00"
+  },
+  {
+    "text": "好",
+    "score": 0.66,
+    "label": "偏积极",
+    "pinyin": "hǎo",
+    "created_at": "2026-09-28T09:36:13+00:00"
+  },
+  {
+    "text": "坏",
+    "score": 0.33,
+    "label": "偏消极",
+    "pinyin": "huài",
+    "created_at": "2026-09-28T09:36:17+00:00"
+  },
+  {
+    "text": "不好",
+    "score": 0.25,
+    "label": "偏消极",
+    "pinyin": "bù hǎo",
+    "created_at": "2026-09-28T09:36:23+00:00"
+  },
+  {
+    "text": "不坏",
+    "score": 0.9,
+    "label": "偏积极",
+    "pinyin": "bù huài",
+    "created_at": "2026-09-28T09:36:28+00:00"
+  },
+  {
+    "text": "重构测试",
+    "score": 0.88,
+    "label": "偏积极",
+    "pinyin": "zhòng gòu cè shì",
+    "created_at": "2026-09-29T06:34:04+00:00"
+  }
+]
